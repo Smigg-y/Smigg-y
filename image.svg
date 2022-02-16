@@ -6,6 +6,6 @@
   </style>
 
     <foreignObject width="200" height="200">
-      <p xmlns="http://www.w3.org/1999/xhtml">Text goes here</p>
+      <p align="center" xmlns="http://www.w3.org/1999/xhtml">Text goes here</p>
     </foreignObject>
 </svg>
