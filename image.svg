@@ -5,9 +5,7 @@
     }
   </style>
 
-  <foreignObject x="0" y="0" width="500" height="500">
-    <p align="center" xmlns="http://www.w3.org/1999/xhtml">
-      <img src="https://github-readme-stats.vercel.app/api?username=smigg-y&show_icons=true&theme=dark">
-    </p>
-  </foreignObject>
+    <foreignObject width="200" height="200">
+      <p xmlns="http://www.w3.org/1999/xhtml">Text goes here</p>
+    </foreignObject>
 </svg>
