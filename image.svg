@@ -1,18 +1,5 @@
 svg fill="none" viewBox="0 0 120 120" width="120" height="120" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
- <head>
- <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
- <title>XHTML 1.0 Strict Example</title>
- <script type="text/javascript">
- //<![CDATA[
- function loadpdf() {
-    document.getElementById("pdf-object").src="http://www.w3.org/TR/xhtml1/xhtml1.pdf";
- }
- //]]>
- </script>
- </head>
- <body onload="loadpdf()">
  <p>This is an example of an
  <abbr title="Extensible HyperText Markup Language">XHTML</abbr> 1.0 Strict document.<br />
  <img id="validation-icon"
@@ -26,7 +13,5 @@ svg fill="none" viewBox="0 0 120 120" width="120" height="120" xmlns="http://www
     height="500">
  </object>
  </p>
- </body>
-</html>
   </foreignObject>
 </svg>
