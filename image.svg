@@ -1,13 +1,7 @@
-svg fill="none" viewBox="0 0 120 120" width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 120 120" width="120" height="120" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
- <p>This is an example of an
- <object id="pdf-object"
-    name="pdf-object"
-    type="application/pdf"
-    data="http://www.w3.org/TR/xhtml1/xhtml1.pdf"
-    width="100%"
-    height="500">
- </object>
- </p>
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <p>test</p>
+    </div>
   </foreignObject>
 </svg>
